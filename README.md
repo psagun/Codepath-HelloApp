@@ -1,7 +1,7 @@
 ## HELLO WORLD APP
 
 ### App Description
-This basic app changes the background color, string color and also the text on click of the specified buttons.
+This basic app changes the background color, string color, and also the text on click of the specified buttons.
 
 ### App Walk-though
 
